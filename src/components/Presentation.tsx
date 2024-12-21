@@ -2,7 +2,7 @@ import "./Presentation.css";
 import fotonoemi from "./foto-noemi.png";
 export default function Presentation() {
   return (
-    <div className="container">
+    <div className="container-presentation">
       <div className="introduction">
         <h1>Ciao, sono Noemi D'Asta</h1>
         <div className="description">
